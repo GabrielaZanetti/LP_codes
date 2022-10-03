@@ -19,7 +19,14 @@ public class TipoPrimitivo {
 //        String s2 = s.toString(); // soma da string
         String s1 = "Ijui"; 
         String s2 = "Ijui"; 
-        boolean v = s1.equalsIgnoreCase(s2); // comparacao de string
+        
+        boolean v = s1.equalsIgnoreCase(s2); // comparacao de string 
         System.out.println(v);
+        
+        String v1 = "Ijui "; 
+        String v2 = "Ijui       "; 
+        
+        s2.trim(); //remocao de espaco entre os textos
+        System.out.println(s2);
     }   
 }
