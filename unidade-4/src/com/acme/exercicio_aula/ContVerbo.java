@@ -10,7 +10,7 @@ public class ContVerbo {
         *   Verificacao de valores dentro de string
         */
         String texto = "De acordo ar com o percusso de investigações sobre o texto, nas mais diversas correntes teóricas que "+
-                       "se debruçam er sobre esse objeto o conceito foi se modificando e se ampliando Hoje o texto não é "+
+                       "se debruçam er sobre esse objeto o conceito foi se modificando e se ampliando Hoje oir texto não é "+
                        "considerado uma ir estrutura pronta com unidade de sentido completa pois consideram-se também os processos "+
                        "de planejamento,construção e recepção do texto.";
         texto = clearText(texto);
