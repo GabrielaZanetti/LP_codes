@@ -1,8 +1,9 @@
-package com.acme.eemplos;
+package com.acme.exemplos;
 
 public class TipoPrimitivo {
 
     public static void main(String[] args) {
+/*
         int a = 40;
         int b = a + a;
 //        System.out.println(b);
@@ -28,5 +29,31 @@ public class TipoPrimitivo {
         
         s2.trim(); //remocao de espaco entre os textos
         System.out.println(s2);
+*/
+
+        /*
+        * Freach de vetor
+        ************************************
+        String[] vet = new String[10];
+        
+        for (String s : vet){
+            System.out.println(s);
+        }
+        
+        System.out.println("Fim do codigo");
+        */
+        
+        /*
+        * Vetor de inteiros
+            int [] notas = new int[15];
+            for(int v : notas){
+                System.out.print(v+", ");
+            }
+        */
+        
+        int[] metragem = {20,25,30,35,40,45,50};
+        for ( int  m : metragem){
+            System.out.println(m);
+        }
     }   
 }
