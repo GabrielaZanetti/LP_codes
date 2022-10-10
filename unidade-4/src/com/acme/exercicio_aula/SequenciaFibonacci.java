@@ -1,7 +1,7 @@
 package com.acme.exercicio_aula;
 
 /**
- *
+ * Atividade Sequência de Fibonacci
  * @author gabii
  */
 public class SequenciaFibonacci {
