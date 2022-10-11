@@ -15,3 +15,13 @@ alguma entidade (abstrata ou concreta) do domínio de interesse do problema sob 
 Objetos similares são agrupados em classes. 
 No paradigma de orientação a objetos, tudo pode ser potencialmente representado como um objeto.
 ```
+
+> String, Int...
+```
+Type element = new Type();
+```
+
+> Vetor
+```
+long[] = element long[4]; // um vetor com 4 posições de tamanho 3
+```
