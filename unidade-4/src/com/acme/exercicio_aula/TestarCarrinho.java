@@ -9,7 +9,7 @@ public class TestarCarrinho {
         CarrinhoCompras carrinho = new CarrinhoCompras();
         
         carrinho.adicionar("Baralho", 37f);
-        System.out.println      (carrinho.total());
+        System.out.println(carrinho.total());
         
     }    
 }

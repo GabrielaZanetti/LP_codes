@@ -53,7 +53,10 @@ public class TipoPrimitivo {
         
         int[] metragem = {20,25,30,35,40,45,50};
         for ( int  m : metragem){
-            System.out.println(m);
+//            System.out.println(m);
         }
+        
+        int[] x = new int[25]; 
+        System.out.println(x[0]);
     }   
 }
